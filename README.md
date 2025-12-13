@@ -23,10 +23,15 @@ Format: CSV (no header)
 **🛠️ Technologies Used**
 
 Python
+
 Pandas & NumPy
+
 NLTK (VADER Sentiment Analyzer)
+
 Matplotlib
+
 WordCloud
+
 Power BI (for visualization)
 
 **🔍 Project Workflow**
