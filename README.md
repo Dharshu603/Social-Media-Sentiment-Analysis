@@ -1,4 +1,5 @@
-📊 Social Media Sentiment Analysis (Sentiment140)
+**📊 Social Media Sentiment Analysis (Sentiment140)**
+
 **📌 Project Overview**
 
 This project performs sentiment analysis on Twitter data using the Sentiment140 dataset.
@@ -50,14 +51,17 @@ Social-Media-Sentiment-Analysis/
 ├── README.md
 └── data/
     └── training.1600000.processed.noemoticon.csv
-  **▶️How to Run the Project**
-  pip install -r requirements.txt
+    
+**▶️How to Run the Project**
+pip install -r requirements.txt
 streamlit run app.py
+
 **📊 Output**
 * Sentiment classification for each tweet
 * Sentiment distribution insights
 * Clean dataset ready for Power BI dashboard
 * Word cloud visualization of frequent terms
+
 **🧠 Key Learnings**
 
 Practical application of Natural Language Processing
@@ -69,6 +73,7 @@ Text preprocessing techniques
 Sentiment analysis using lexicon-based models
 
 Data preparation for business intelligence tools
+
 **🚀 Future Enhancements**
 
 Implement BERT-based sentiment analysis
@@ -78,10 +83,12 @@ Real-time Twitter data scraping
 Advanced Power BI dashboard
 
 Topic modeling on tweets
+
 **📌 Author**
 
 Dharshini
 B.E. Computer Science and Engineering
 Aspiring Data Scientist
+
 **📎 License**
 This project is created for educational and portfolio purposes.
