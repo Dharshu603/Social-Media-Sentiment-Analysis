@@ -44,19 +44,27 @@ Power BI (for visualization)
 
 **📁 Project Structure**
 Social-Media-Sentiment-Analysis/
+
 │
 ├── app.py
+
 ├── requirements.txt
+
 ├── sentiment140_powerbi.csv
+
 ├── README.md
+
 └── data/
+
     └── training.1600000.processed.noemoticon.csv
     
 **▶️How to Run the Project**
+
 pip install -r requirements.txt
 streamlit run app.py
 
 **📊 Output**
+
 * Sentiment classification for each tweet
 * Sentiment distribution insights
 * Clean dataset ready for Power BI dashboard
