@@ -95,8 +95,11 @@ Topic modeling on tweets
 **📌 Author**
 
 Dharshini
+
 B.E. Computer Science and Engineering
+
 Aspiring Data Scientist
 
 **📎 License**
+
 This project is created for educational and portfolio purposes.
